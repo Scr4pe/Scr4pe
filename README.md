@@ -15,7 +15,7 @@
 
 <a><img align="left" alt="Scr4pe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Scr4pe&show_icons=true&hide_border=true&theme=merko" /><a/>
 
-<a><img align="left" alt="Scr4pe's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scr4pe&layout=compact&theme=merko&hide_border=true" /><a/>
+<a><img align="right" alt="Scr4pe's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scr4pe&layout=compact&theme=merko&hide_border=true" /><a/>
 
 <!---
 Scr4pe/Scr4pe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
