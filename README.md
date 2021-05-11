@@ -6,8 +6,8 @@
 
  ### 🛠️ Tech Stack
 
-- 💻 Python | HTML
-- 🌐 CSS
+- 💻 Python
+- 🌐 CSS | HTML
 - 🔧 VS Code
 <img align="center" alt="Scr4pe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Scr4pe&show_icons=true&hide_border=true&theme=merko" />
 <img align="center" alt="Scr4pe's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scr4pe&layout=compact&theme=merko&hide_border=true" />
