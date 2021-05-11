@@ -1,17 +1,15 @@
-## Hi there, I'm @Scr4pe 👋
+# Hi there, I'm @Scr4pe 👋
 
-# I'm pretty much new here
-- 👀 I’m interested in data science
+## About me
+- 👀 I’m interested in everything Python related
 - 🌱 I’m currently learning Python 3 and just getting to know my tools
 
-### Languages and Tools
+ ### 🛠️ Tech Stack
 
+- 💻   <a href = "https://www.python.org/downloads/"><img src="https://www.python.org/static/opengraph-icon-200x200.png" align="top" width="20px"><a/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1280px-HTML5_logo_and_wordmark.svg.png" align="top" width="20px">
 
-
-<a href = "https://www.python.org/downloads/"> <img src="https://www.python.org/static/opengraph-icon-200x200.png" align="center" width="30px"><a/>
-<a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png" align="center" width="30px"> <a/>
-<a href = "https://code.visualstudio.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" align="center" width="26px"> <a/>
-<a href = "https://docs.anaconda.com/anaconda/install/"> <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" align="center" width="52px"> <a/>
+- 🌐 <img src="https://img.icons8.com/color/344/css3.png" align="top" width="20px"> | <img src="https://img.icons8.com/metro/344/wordpress.png" width="20px">
+- 🔧 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width="20px" height="20px" vertical-align="bottom">
 
 <img align="center" alt="Scr4pe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Scr4pe&show_icons=true&hide_border=true&theme=merko" />
 <img align="center" alt="Scr4pe's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scr4pe&layout=compact&theme=merko&hide_border=true" />
