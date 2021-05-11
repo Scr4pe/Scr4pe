@@ -1,4 +1,4 @@
-# Hi there, I'm @Scr4pe 👋
+# Hi there, I'm Scr4pe 👋
 
 ## About me
 - 👀 I’m interested in everything Python related
