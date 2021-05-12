@@ -6,7 +6,7 @@
 
  ### 🛠️ Tech Stack
 
-- 💻 Python
+- 💻 Python | Java
 - 🌐 CSS | HTML
 - 🔧 VS Code
 <img align="center" alt="Scr4pe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Scr4pe&show_icons=true&hide_border=true&theme=merko" />
