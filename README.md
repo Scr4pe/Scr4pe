@@ -1,8 +1,10 @@
 # Hi there, I'm Scr4pe 👋
 
 ## About me
-- 👀 I’m interested in everything Python related
-- 🌱 I’m currently learning Python 3 and just getting to know my tools
+* :telescope: I'm currently working on python projects
+* 👀 I’m interested in everything Python related
+* 🌱 I’m currently learning Python 3 and just getting to know my tools
+* :goal_net: 2021 Goals: Create more public projects & contribute more to Open Source projects
 
  ### 🛠️ Tech Stack
 
