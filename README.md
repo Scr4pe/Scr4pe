@@ -1,4 +1,4 @@
-# Hi there, I'm Marc 👋
+# Hi there, I'm Scrape 👋
 
 ### :card_file_box: About me
 * :telescope: I'm currently working on python projects
